@@ -1,5 +1,5 @@
 array_usuario = [] 
-puts "digite seu texto aqui, escreva 'sair' para finalizar"
+puts "digite seu texto aqui"
 loop do
 	entrada = gets.chomp
 	if "sair" == entrada
